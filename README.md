@@ -1,25 +1,56 @@
-# LifeSync 🚀
+# 🚀 LifeSync – Smart Task & Habit Management System
 
-LifeSync is a personal productivity and task management web application built with Flask and SQLite.
+LifeSync is a personal productivity and task management web application built with **Python, Flask, and SQLite**.
 
-It helps users organize daily tasks, track progress, manage goals, and build better habits through a simple and clean dashboard.
+It helps users organize daily tasks, manage goals, track productivity, and build better habits through a simple, clean, and user-friendly dashboard.
 
-## Features ✨
 
-- User Registration and Login
-- Personal Dashboard
-- Add, Edit, Delete Tasks
-- Mark Tasks as Completed
-- Task Search and Category Filter
-- Repeating Tasks (Daily / Weekly / Monthly)
-- Goal Tracking
-- Due Date and Due Time Management
-- Task Progress Tracking
-- Calendar View
-- Reminder Popup Notifications
-- User Profile Management
+## 🌐 Live Demo
 
-## Technologies Used 🛠️
+🔗 **https://lifesync-gt0e.onrender.com**
+
+
+## 📌 Project Status
+
+🟢 **Status:** Live & Deployed on Render
+
+### Current Features
+- ✅ User Registration & Login
+- ✅ Personal Dashboard
+- ✅ Task Management
+- ✅ Goal Tracking
+- ✅ Calendar View
+- ✅ Reminder Popups
+- ✅ User Profile Management
+
+### Upcoming Improvements
+- 🔄 Individual user task isolation
+- 🔒 Enhanced authentication & security
+- 📱 Mobile responsive UI improvements
+- 📊 Advanced analytics dashboard
+- 📧 Email reminders
+
+
+## ✨ Features
+
+- 👤 User Registration & Login
+- 📋 Personal Dashboard
+- ➕ Add Tasks
+- ✏️ Edit Tasks
+- ❌ Delete Tasks
+- ✅ Mark Tasks as Completed
+- 🔍 Task Search
+- 🗂️ Category Filter
+- 🔁 Repeating Tasks (Daily / Weekly / Monthly)
+- 🎯 Goal Tracking
+- 📅 Due Date & Due Time Management
+- 📈 Task Progress Tracking
+- 🗓️ Calendar View
+- 🔔 Reminder Popup Notifications
+- 👤 User Profile Management
+
+
+## 🛠️ Technologies Used
 
 - Python
 - Flask
@@ -28,59 +59,82 @@ It helps users organize daily tasks, track progress, manage goals, and build bet
 - CSS3
 - Jinja2 Templates
 
-## Project Structure
+
+## 📂 Project Structure
+
 LifeSync/
 │
 ├── app.py
 ├── requirements.txt
 ├── templates/
 ├── static/
-│ └── css/
+│   └── css/
 ├── .gitignore
 └── README.md
 
 
-## Installation & Setup ⚙️
+## ⚙️ Installation & Setup
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/anita69cv/LifeSync.git
+```
 
-Go inside the project folder:
+### 2. Go to the project folder
+
+```bash
 cd LifeSync
+```
 
-Create virtual environment:
+### 3. Create a virtual environment
+
+```bash
 python -m venv venv
-Activate virtual environment:
+```
 
-Windows:
+### 4. Activate the virtual environment
+
+**Windows**
+
+```bash
 venv\Scripts\activate
+```
 
-Install dependencies:
+### 5. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-Run the application:
+### 6. Run the application
+
+```bash
 python app.py
+```
 
-Open in browser:
+### 7. Open in your browser
+
+```text
 http://127.0.0.1:5000
+```
 
-Future Improvements 🚀
-Cloud deployment
-Email reminders
-Mobile responsive improvements
-Advanced analytics dashboard
+## 🚀 Future Improvements
 
-# 🚀 LifeSync
+- 🔒 Secure user authentication using Flask Sessions
+- 👥 Individual task management for every user
+- 📧 Email reminder notifications
+- 📱 Fully responsive mobile interface
+- 📊 Advanced analytics dashboard
+- ☁️ Migration from SQLite to PostgreSQL/MySQL for production
 
-LifeSync is a personal productivity and task management web application built with Flask and SQLite.
 
-It helps users organize daily tasks, track progress, manage goals, and build better habits through a simple and clean dashboard.
+## 👩‍💻 Author
 
-## 🌐 Live Demo
+**Anita Vishwakarma**
 
-🔗 https://lifesync-gt0e.onrender.com
+- GitHub: https://github.com/anita69cv
+- Project: https://github.com/anita69cv/LifeSync
 
-Author 👩‍💻
-Anita Vishwakarma
+
+⭐ If you found this project useful, consider giving it a **Star** on GitHub!
