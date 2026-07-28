@@ -72,5 +72,15 @@ Email reminders
 Mobile responsive improvements
 Advanced analytics dashboard
 
+# 🚀 LifeSync
+
+LifeSync is a personal productivity and task management web application built with Flask and SQLite.
+
+It helps users organize daily tasks, track progress, manage goals, and build better habits through a simple and clean dashboard.
+
+## 🌐 Live Demo
+
+🔗 https://lifesync-gt0e.onrender.com
+
 Author 👩‍💻
 Anita Vishwakarma
